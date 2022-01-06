@@ -1,6 +1,5 @@
 var first-name = "Anushka";
 var last_name= "Pandey"; 
-first-name.concat(last-name) 
 
-var add =  a + b ;
-console.log(add);
+var full_name = first_name.concat(last_name); 
+console.log(full_name); 

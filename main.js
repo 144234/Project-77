@@ -1,4 +1,4 @@
-var first-name = "Anushka";
+var first_name = "Anushka";
 var last_name= "Pandey"; 
 
 var full_name = first_name.concat(last_name); 
